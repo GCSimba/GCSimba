@@ -1,10 +1,10 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1E3A8A,100:7C3AED&height=230&section=header&text=GCSimba&fontSize=72&fontColor=FFFFFF&fontAlignY=36&desc=AI%20Agents%20%C2%B7%20LLM%20Systems%20%C2%B7%20Inference%20Optimization&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="GCSimba" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1E3A8A,100:7C3AED&height=200&section=header&desc=AI%20Agents%20%C2%B7%20LLM%20Systems%20%C2%B7%20Inference%20Optimization&descSize=26&descAlignY=42&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="AI Agents · LLM Systems · Inference Optimization" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=680&lines=Building+reliable+AI+Agent+systems;Training%2C+fine-tuning+%26+serving+LLMs;Quantization+%C2%B7+ONNX+%C2%B7+TensorRT+%C2%B7+Edge+AI;Contributing+to+Triton%2C+SGLang+%26+Whisper;More+efforts%2C+more+fortune." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=680&lines=Building+reliable+AI+Agent+systems;Training%2C+fine-tuning+%26+serving+LLMs;Quantization+%C2%B7+ONNX+%C2%B7+TensorRT+%C2%B7+Edge+AI;Contributing+to+SGLang%2C+Whisper+%26+Google+ADK;More+efforts%2C+more+fortune." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,18 +19,6 @@
 </p>
 
 ---
-
-### 👋 About
-
-```python
-class GCSimba(AIEngineer):
-    focus    = ["AI Agents", "LLM Training",
-                "Arch Optimization", "Deployment"]
-    approach = "LLMs + tools + workflows + infra"
-    upstream = ["triton", "sglang", "whisper",
-                "pytest", "adk-kotlin"]
-    motto    = "More efforts, more fortune."
-```
 
 ### 🧭 What I work on
 
@@ -77,7 +65,6 @@ class GCSimba(AIEngineer):
 
 <table align="center">
   <tr>
-    <td align="center" width="140"><a href="https://github.com/triton-lang/triton/pulls?q=is%3Apr+author%3AGCSimba"><img src="https://github.com/triton-lang.png?size=96" width="56" alt="Triton" /><br /><sub><b>Triton</b></sub></a></td>
     <td align="center" width="140"><a href="https://github.com/sgl-project/sglang/pulls?q=is%3Apr+author%3AGCSimba"><img src="https://github.com/sgl-project.png?size=96" width="56" alt="SGLang" /><br /><sub><b>SGLang</b></sub></a></td>
     <td align="center" width="140"><a href="https://github.com/openai/whisper/pulls?q=is%3Apr+author%3AGCSimba"><img src="https://github.com/openai.png?size=96" width="56" alt="Whisper" /><br /><sub><b>Whisper</b></sub></a></td>
     <td align="center" width="140"><a href="https://github.com/pytest-dev/pytest/pulls?q=is%3Apr+author%3AGCSimba"><img src="https://github.com/pytest-dev.png?size=96" width="56" alt="pytest" /><br /><sub><b>pytest</b></sub></a></td>
@@ -114,17 +101,6 @@ class GCSimba(AIEngineer):
     </td>
   </tr>
 </table>
-
-### 📊 GitHub stats
-
-<p align="center">
-  <img src="./profile/stats.svg" width="55%" alt="GitHub stats" />
-  <img src="./profile/top-langs.svg" width="40%" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=GCSimba&hide_border=true&background=00000000&ring=2F81F7&fire=7C3AED&currStreakLabel=2F81F7&sideLabels=7D8590&currStreakNum=7D8590&sideNums=7D8590&dates=7D8590&stroke=30363D" alt="GitHub streak" />
-</p>
 
 ### 🐍 Contribution snake
 
