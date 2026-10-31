@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=680&lines=Building+reliable+AI+Agent+systems;Training%2C+fine-tuning+%26+serving+LLMs;Quantization+%C2%B7+ONNX+%C2%B7+TensorRT+%C2%B7+Edge+AI;Contributing+to+SGLang%2C+Whisper+%26+Google+ADK;More+efforts%2C+more+fortune." alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GCSimba&label=Profile%20views&color=2F81F7&style=flat-square" alt="Profile views" />
-</p>
-
 ---
 
 ### 🧭 What I work on
