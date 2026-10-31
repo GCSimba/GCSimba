@@ -24,11 +24,11 @@
 
 ```python
 class GCSimba(AIEngineer):
-    focus    = ["AI Agent systems", "LLM training & fine-tuning",
-                "Architecture optimization", "Model deployment & runtime"]
-    approach = "LLMs + tools + workflows + infra -> real-world tasks"
-    upstream = ["triton-lang/triton", "sgl-project/sglang", "openai/whisper",
-                "pytest-dev/pytest", "google/adk-kotlin"]
+    focus    = ["AI Agents", "LLM Training",
+                "Arch Optimization", "Deployment"]
+    approach = "LLMs + tools + workflows + infra"
+    upstream = ["triton", "sglang", "whisper",
+                "pytest", "adk-kotlin"]
     motto    = "More efforts, more fortune."
 ```
 
