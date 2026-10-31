@@ -1,17 +1,10 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1E3A8A,100:7C3AED&height=200&section=header&desc=AI%20Agents%20%C2%B7%20LLM%20Systems%20%C2%B7%20Inference%20Optimization&descSize=26&descAlignY=42&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="AI Agents · LLM Systems · Inference Optimization" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1E3A8A,100:7C3AED&height=140&section=header&animation=fadeIn" width="100%" alt="" />
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=680&lines=Building+reliable+AI+Agent+systems;Training%2C+fine-tuning+%26+serving+LLMs;Quantization+%C2%B7+ONNX+%C2%B7+TensorRT+%C2%B7+Edge+AI;Contributing+to+SGLang%2C+Whisper+%26+Google+ADK;More+efforts%2C+more+fortune." alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20Agents-2F81F7?style=for-the-badge&logo=robotframework&logoColor=white" alt="AI Agents" />
-  <img src="https://img.shields.io/badge/LLM%20Systems-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="LLM Systems" />
-  <img src="https://img.shields.io/badge/Inference%20Optimization-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Inference Optimization" />
-  <img src="https://img.shields.io/badge/Open%20Source-F78166?style=for-the-badge&logo=github&logoColor=white" alt="Open Source" />
 </p>
 
 <p align="center">
@@ -69,6 +62,7 @@
     <td align="center" width="140"><a href="https://github.com/openai/whisper/pulls?q=is%3Apr+author%3AGCSimba"><img src="https://github.com/openai.png?size=96" width="56" alt="Whisper" /><br /><sub><b>Whisper</b></sub></a></td>
     <td align="center" width="140"><a href="https://github.com/pytest-dev/pytest/pulls?q=is%3Apr+author%3AGCSimba"><img src="https://github.com/pytest-dev.png?size=96" width="56" alt="pytest" /><br /><sub><b>pytest</b></sub></a></td>
     <td align="center" width="140"><a href="https://github.com/google/adk-kotlin/pulls?q=is%3Apr+author%3AGCSimba"><img src="https://github.com/google.png?size=96" width="56" alt="Google ADK" /><br /><sub><b>ADK Kotlin</b></sub></a></td>
+    <td align="center" width="140"><a href="https://github.com/deepseek-ai/deepseek-harness"><img src="https://github.com/deepseek-ai.png?size=96" width="56" alt="DeepSeek Harness" /><br /><sub><b>DeepSeek Harness</b></sub></a></td>
   </tr>
 </table>
 
