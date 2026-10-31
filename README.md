@@ -100,8 +100,3 @@
     <img src="./profile/snake.svg" alt="Contribution snake" />
   </picture>
 </p>
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,55:1E3A8A,100:0D1117&height=120&section=footer" width="100%" alt="" />
-</p>
