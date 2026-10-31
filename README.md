@@ -1,8 +1,3 @@
-<!-- Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1E3A8A,100:7C3AED&height=140&section=header&animation=fadeIn" width="100%" alt="" />
-</p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=680&lines=Building+reliable+AI+Agent+systems;Training%2C+fine-tuning+%26+serving+LLMs;Quantization+%C2%B7+ONNX+%C2%B7+TensorRT+%C2%B7+Edge+AI;Contributing+to+SGLang%2C+Whisper+%26+Google+ADK;More+efforts%2C+more+fortune." alt="Typing SVG" />
 </p>
