@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=680&lines=Building+reliable+AI+Agent+systems;Training%2C+fine-tuning+%26+serving+LLMs;Quantization+%C2%B7+ONNX+%C2%B7+TensorRT+%C2%B7+Edge+AI;Contributing+to+SGLang%2C+Whisper+%26+Google+ADK;More+efforts%2C+more+fortune." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=680&lines=Building+reliable+AI+Agent+systems;Training%2C+fine-tuning+%26+serving+LLMs;Quantization+%C2%B7+ONNX+%C2%B7+TensorRT+%C2%B7+Edge+AI;Contributing+to+vLLM%2C+SGLang+%26+Whisper;More+efforts%2C+more+fortune." alt="Typing SVG" />
 </p>
 
 ---
@@ -45,11 +45,12 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="140"><a href="https://github.com/sgl-project/sglang/pulls?q=is%3Apr+author%3AGCSimba"><img src="https://github.com/sgl-project.png?size=96" width="56" alt="SGLang" /><br /><sub><b>SGLang</b></sub></a></td>
-    <td align="center" width="140"><a href="https://github.com/openai/whisper/pulls?q=is%3Apr+author%3AGCSimba"><img src="https://github.com/openai.png?size=96" width="56" alt="Whisper" /><br /><sub><b>Whisper</b></sub></a></td>
-    <td align="center" width="140"><a href="https://github.com/pytest-dev/pytest/pulls?q=is%3Apr+author%3AGCSimba"><img src="https://github.com/pytest-dev.png?size=96" width="56" alt="pytest" /><br /><sub><b>pytest</b></sub></a></td>
-    <td align="center" width="140"><a href="https://github.com/google/adk-kotlin/pulls?q=is%3Apr+author%3AGCSimba"><img src="https://github.com/google.png?size=96" width="56" alt="Google ADK" /><br /><sub><b>ADK Kotlin</b></sub></a></td>
-    <td align="center" width="140"><a href="https://github.com/deepseek-ai/deepseek-harness"><img src="https://github.com/deepseek-ai.png?size=96" width="56" alt="DeepSeek Harness" /><br /><sub><b>DeepSeek Harness</b></sub></a></td>
+    <td align="center" width="120"><a href="https://github.com/vllm-project/vllm/pulls?q=is%3Apr+author%3AGCSimba"><img src="https://github.com/vllm-project.png?size=96" width="56" alt="vLLM" /><br /><sub><b>vLLM</b></sub></a></td>
+    <td align="center" width="120"><a href="https://github.com/sgl-project/sglang/pulls?q=is%3Apr+author%3AGCSimba"><img src="https://github.com/sgl-project.png?size=96" width="56" alt="SGLang" /><br /><sub><b>SGLang</b></sub></a></td>
+    <td align="center" width="120"><a href="https://github.com/openai/whisper/pulls?q=is%3Apr+author%3AGCSimba"><img src="https://github.com/openai.png?size=96" width="56" alt="Whisper" /><br /><sub><b>Whisper</b></sub></a></td>
+    <td align="center" width="120"><a href="https://github.com/pytest-dev/pytest/pulls?q=is%3Apr+author%3AGCSimba"><img src="https://github.com/pytest-dev.png?size=96" width="56" alt="pytest" /><br /><sub><b>pytest</b></sub></a></td>
+    <td align="center" width="120"><a href="https://github.com/google/adk-kotlin/pulls?q=is%3Apr+author%3AGCSimba"><img src="https://github.com/google.png?size=96" width="56" alt="Google ADK" /><br /><sub><b>ADK Kotlin</b></sub></a></td>
+    <td align="center" width="120"><a href="https://github.com/deepseek-ai/deepseek-harness"><img src="https://github.com/deepseek-ai.png?size=96" width="56" alt="DeepSeek Harness" /><br /><sub><b>DeepSeek Harness</b></sub></a></td>
   </tr>
 </table>
 
