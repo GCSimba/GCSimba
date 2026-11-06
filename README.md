@@ -41,7 +41,7 @@
       <img src="https://github.com/google.png?size=96" width="56" alt="Google" /><br />
       <sub>
         <a href="https://github.com/google/adk-kotlin/pulls?q=is%3Apr+author%3AGCSimba"><b>Agent Development Kit</b></a><br />
-        <a href="https://github.com/google-research/harness2/pulls?q=is%3Apr+author%3AGCSimba"><b>Google Research Harness</b></a>
+        <a href="https://github.com/google-research/harness2/pulls?q=is%3Apr+author%3AGCSimba"><b>Google harness2</b></a>
       </sub>
     </td>
     <td align="center" width="120"><a href="https://github.com/deepseek-ai/deepseek-harness"><img src="https://github.com/deepseek-ai.png?size=96" width="56" alt="DeepSeek Harness" /><br /><sub><b>DeepSeek Harness</b></sub></a></td>
