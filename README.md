@@ -29,19 +29,6 @@
   </tr>
 </table>
 
-### 🛠️ Tech stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" alt="ONNX" />
-  <img src="https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="TensorRT" />
-  <img src="https://img.shields.io/badge/Jetson%20Orin-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="Jetson Orin" />
-  <img src="https://img.shields.io/badge/Triton-1F2937?style=flat-square" alt="Triton" />
-  <img src="https://img.shields.io/badge/vLLM-30A2FF?style=flat-square" alt="vLLM" />
-  <img src="https://img.shields.io/badge/SGLang-7C3AED?style=flat-square" alt="SGLang" />
-  <img src="https://img.shields.io/badge/Google%20ADK-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google ADK" />
-</p>
-
 ### 🌍 Open source contributions
 
 <table align="center">
@@ -84,13 +71,3 @@
     </td>
   </tr>
 </table>
-
-### 🐍 Contribution snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile/snake.svg" />
-    <img src="./profile/snake.svg" alt="Contribution snake" />
-  </picture>
-</p>
