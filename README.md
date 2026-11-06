@@ -37,9 +37,14 @@
     <td align="center" width="120"><a href="https://github.com/sgl-project/sglang/pulls?q=is%3Apr+author%3AGCSimba"><img src="https://github.com/sgl-project.png?size=96" width="56" alt="SGLang" /><br /><sub><b>SGLang</b></sub></a></td>
     <td align="center" width="120"><a href="https://github.com/openai/whisper/pulls?q=is%3Apr+author%3AGCSimba"><img src="https://github.com/openai.png?size=96" width="56" alt="Whisper" /><br /><sub><b>Whisper</b></sub></a></td>
     <td align="center" width="120"><a href="https://github.com/pytest-dev/pytest/pulls?q=is%3Apr+author%3AGCSimba"><img src="https://github.com/pytest-dev.png?size=96" width="56" alt="pytest" /><br /><sub><b>pytest</b></sub></a></td>
-    <td align="center" width="120"><a href="https://github.com/google/adk-kotlin/pulls?q=is%3Apr+author%3AGCSimba"><img src="https://github.com/google.png?size=96" width="56" alt="Google ADK" /><br /><sub><b>ADK Kotlin</b></sub></a></td>
+    <td align="center" width="120">
+      <img src="https://github.com/google.png?size=96" width="56" alt="Google" /><br />
+      <sub>
+        <a href="https://github.com/google/adk-kotlin/pulls?q=is%3Apr+author%3AGCSimba"><b>Agent Development Kit</b></a><br />
+        <a href="https://github.com/google-research/harness2/pulls?q=is%3Apr+author%3AGCSimba"><b>Google Research Harness</b></a>
+      </sub>
+    </td>
     <td align="center" width="120"><a href="https://github.com/deepseek-ai/deepseek-harness"><img src="https://github.com/deepseek-ai.png?size=96" width="56" alt="DeepSeek Harness" /><br /><sub><b>DeepSeek Harness</b></sub></a></td>
-    <td align="center" width="120"><a href="https://github.com/google-research/harness2/pulls?q=is%3Apr+author%3AGCSimba"><img src="https://github.com/google-research.png?size=96" width="56" alt="Google Research" /><br /><sub><b>Google Research Harness</b></sub></a></td>
   </tr>
 </table>
 
